@@ -5,7 +5,7 @@ import os, json
 
 load_dotenv()
 api_key = os.getenv('api_key')
-#test
+
 app = Flask(__name__)
 
 
